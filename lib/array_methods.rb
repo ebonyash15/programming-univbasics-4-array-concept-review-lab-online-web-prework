@@ -9,5 +9,5 @@ end
 
 def find_min_value(array)
   array1=array.sort
-  p array1[1]
+  p array1[0]
 end
